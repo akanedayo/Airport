@@ -1,6 +1,9 @@
 PROCESS-NAME,eldenring.exe
 PROCESS-NAME,factorio.exe
+PROCESS-NAME,ItTakesTwo.exe
+PROCESS-NAME,MuMuPlayer.exe
+
 PROCESS-NAME,RvRvpnGui.exe
 PROCESS-NAME,RvControlSvc.exe
 PROCESS-NAME,SDI_x64_R2503.exe
-PROCESS-NAME,ItTakesTwo.exe
+
